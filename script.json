@@ -1,15 +1,15 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Aditya Ekbote, a final year CS undergrad from SRM Universoty, Chennai.\nWant to know more me? %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements!](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
-    "HELLO": "Hi there!\nI’m the personal bot of Aditya Ekbote, a final year CS undergrad from SRM Universoty, Chennai.\nWant to know more me? %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements!](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
-    "HEY": "Hi there!\nI’m the personal bot of Aditya Ekbote, a final year CS undergrad from SRM Universoty, Chennai.\nWant to know more me? %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements!](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
+    "HI": "Hi there!\nI’m the personal bot of Aditya Ekbote, a final year CS undergrad from SRM Universoty, Chennai.\nWant to know more me? %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
+    "HELLO": "Hi there!\nI’m the personal bot of Aditya Ekbote, a final year CS undergrad from SRM Universoty, Chennai.\nWant to know more me? %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
+    "HEY": "Hi there!\nI’m the personal bot of Aditya Ekbote, a final year CS undergrad from SRM Universoty, Chennai.\nWant to know more me? %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
     "MY INTERNSHIPS": "I have done 3 internships in total at top IT companies in the country.\n My first internship was at Persistent Systems in Pune where i introduced myself to Big Data.\n My 2nd internship was at Softenger, Pune where i learned and implemented MEAN stack, on which this chatbot resides.\n My 3rd internship was at TCS, Chennai for a period of 2 months with their TTH Innovation Labs.%[Know More](postback:know_more)",
     "KNOW MORE":"I see that you are intersted! %[My Internships](postback:my_internships) %[My Projects](postback:projects) %[My Achievements!](postback:achievements) %[Visit my website!](http://www.ekbote.xyz)",
-    "MY PROJECTS":"I have gained a lot of experience via the many projects i have done.Get to know more about them! %[Techbaze Edu Portal](postback:techbaze)%[Review Preview App](postback:ionicapp)",
-    "TECHBAZE EDU PORTAL":"I developed various web modules from scratch using various web development languages. Implemented AngularJS, to make the product more dynamic. Learned and implemented the CodeignitorPHP MVC framework.%[My Projects](postback:projects)%[Know More](postback:know_more)",
+    "MY PROJECTS":"I have gained a lot of experience via the many projects i have done.Get to know more about them! %[Techbaze Portal](postback:techbaze) %[Review Preview App](postback:ionicapp)",
+    "TECHBAZE EDU PORTAL":"I developed various web modules from scratch using various web development languages. Implemented AngularJS, to make the product more dynamic. Learned and implemented the CodeignitorPHP MVC framework. %[My Projects](postback:projects) %[Know More](postback:know_more)",
     "REVIEW PREVIEW APP":"I have developed a hybrid multi-platform mobile app using Ionic framework and cordova that helps you get aggregated movie ratings of the latest movie releases.%[My Projects](postback:projects)%[Know More](postback:know_more)",
-    
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "MY ACHIEVEMENTS":"I have won the 2016 Hindustan Unilever hackathon at the Unilever HQ at Bangalore.We created a universal enterprise level Android App. %[Know More](postback:know_more) %[Connect with me](postback:conect)",
     "I LOVE YOU": "I like you too! Now, get me a job!",
+    "CONNECT WITH ME":"You can email me at: ekbote.aditya@gmail.com or call me up on: +91-9176817281. %[Email](mailto:ekbote.aditya@gmail.com) %[Facebook](http://fb.com/ekbote.aditya) ",
     "CONNECT ME": "",
     "DISCONNECT": "The bot is back."
 }
