@@ -12,7 +12,7 @@
     "I LOVE YOU": "I like you too! Now, get me a job!",
     "WHO ARE YOU": "I am Aditya Ekbote, who likes to build cool stuff like the one you are using right now!",
     "I WANT TO CONTACT YOU":"Sure! I would like to connect with you as well! %[Connect with me](postback:conect)",
-    "CONNECT WITH ME":"You can email me at: ekbote.aditya@gmail.com or call me up on: +91-9176817281. %[Email](mailto:ekbote.aditya@gmail.com) %[Facebook](http://fb.com/ekbote.aditya) ",
+    "CONNECT WITH ME":"You can email me at: ekbote.aditya@gmail.com or call me up on: +91-9176817281. %[Email](http://mailto:ekbote.aditya@gmail.com) %[Facebook](http://fb.com/ekbote.aditya) ",
     "CONNECT ME": "",
     "DISCONNECT": "The bot is back."
 }
