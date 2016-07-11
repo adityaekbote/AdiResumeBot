@@ -15,5 +15,6 @@
     "I WANT TO CONTACT YOU":"Sure! I would like to connect with you as well! %[Connect with me](postback:conect)",
     "CONNECT WITH ME":"You can email me at: ekbote.aditya@gmail.com or call me up on: +91-9176817281. %[Email](http://mailto:ekbote.aditya@gmail.com) %[Facebook](http://fb.com/ekbote.aditya) ",
     "CONNECT ME": "",
+    "HOW ARE YOU?":"Hi, I am good! Chatting with you makes me feel good.",
     "DISCONNECT": "The bot is back."
 }
